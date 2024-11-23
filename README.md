@@ -44,7 +44,10 @@ Ensure you have the following installed on your system:
 
 
 2. Backend Setup:
+   
  Navigate to the backend directory:
+ ```
+
       cd backend
 
  Install dependencies:
