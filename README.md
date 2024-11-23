@@ -44,29 +44,29 @@ Ensure you have the following installed on your system:
 
 
 2. Backend Setup:
- -->Navigate to the backend directory:
-      -->cd backend
+ Navigate to the backend directory:
+      cd backend
 
- -->Install dependencies:
-      -->npm install
+ Install dependencies:
+      npm install
 
- -->Create a .env file and add the following environment variables:
+ Create a .env file and add the following environment variables:
        MONGO_URL=mongodb://127.0.0.1:27017/employees
        JWT_SECRET=your_secret_key
 
- -->Run the backend server:
-       -->node index.js
+ Run the backend server:
+       node index.js
 
 3. Frontend Setup:
- -->Navigate to the frontend directory:
-       -->cd frontend
+Navigate to the frontend directory:
+cd frontend
 
- -->Install necessary dependencies:
-       -->npm install
+ Install necessary dependencies:
+       npm install
 
- -->Start the frontend development server:
-       -->npm run dev
+ Start the frontend development server:
+       npm run dev
 
-       ******************************************************************************************
+       
 
 
